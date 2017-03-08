@@ -1,0 +1,98 @@
+Maximum number INT_MAX:
+2147483647
+Maximum number found with while loop:
+2147483647
+Maximum number found with for loop:
+2147483647
+Maximum number found with do while loop:
+2147483647
+
+Minimum number INT_MIN:
+-2147483648
+Minimum number found with while loop:
+-2147483648
+Minimum number found with for loop:
+-2147483648
+Minimum number found with do while loop:
+-2147483648
+
+Machine epsilon for float FLT_EPSILON:
+1.19209e-07
+Machine epsilon for float found with while loop:
+1.19209e-07
+Machine epsilon for float found with for loop:
+1.19209e-07
+Machine epsilon for float found with do while loop:
+1.19209e-07
+Machine epsilon for double DBL_EPSILON:
+2.22045e-16
+Machine epsilon for double found with while loop:
+2.22045e-16
+Machine epsilon for double found with for loop:
+2.22045e-16
+Machine epsilon for double found with do while loop:
+2.22045e-16
+Machine epsilon for long double LDBL_EPSILON:
+1.0842e-19
+Machine epsilon for long double found with while loop:
+1.0842e-19
+Machine epsilon for long double found with for loop:
+1.0842e-19
+Machine epsilon for long double found with do while loop:
+1.0842e-19
+
+The sum of 1.0f + 1.0f/2 + 1.0f/3 + ... + 1.0f/max for max=INT_MAX/2:
+15.4037
+The sum of 1.0f/max + 1.0f/(max-1) + 1.0f/(max-2) + ... +1.0f:
+18.8079
+The sum of 1.0 + 1.0/2 + 1.0/3 + ... + 1.0/max for max=INT_MAX/2:
+15.4037
+The sum of 1.0/max + 1.0/(max-1) + 1.0/(max-2) + ... +1.0:
+18.8079
+
+tau=0.1, epsilon=2.22045e-16
+
+
+6.95326e-310
+
+6.95326e-310
+
+1
+
+2
+1=1?
+1
+
+
+6.95326e-310
+
+6.95326e-310
+
+1
+
+2
+1=2?
+1
+
+
+6.95326e-310
+
+6.95326e-310
+
+1
+
+1
+1=2?
+1
+
+
+6.95326e-310
+
+6.95326e-310
+
+2
+
+2
+1=1?
+1
+
