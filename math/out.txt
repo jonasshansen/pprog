@@ -1,0 +1,16 @@
+Gamma function of 5:
+24
+Bessel function (erf) of 0.5:
+0.5205
+Square root of -2:
+0 + 1.41421i
+exp^i:
+0.540302 + 0.841471i
+exp^(i * pi):
+-1 + 1.22465e-16i
+i^e:
+0 + 0i
+Significant digits of popular data types illustrated:
+float:      0.1111111119389533996582031
+double:     0.1111111111111111049432054
+long double:0.1111111111111111049432054
