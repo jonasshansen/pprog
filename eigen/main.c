@@ -56,7 +56,8 @@ int main(){
 	gsl_vector_free(b);
 	gsl_vector_free(x);
 	gsl_permutation_free(p);
-
+	gsl_matrix_free(A0);
+	gsl_vector_free(x0);
 
 
 
@@ -93,6 +94,10 @@ int main(){
   		printf("%g %g\n",1.0,0.0);
   		printf("\n\n");
   	}
+
+	gsl_matrix_free(H);
+	gsl_vector_free(eval);
+	gsl_matrix_free(evec);
 
 	return 0;
 }
