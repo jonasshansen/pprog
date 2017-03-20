@@ -28,7 +28,7 @@ double equation(double x){
 }
 
 
-int main(int argc, char **argv){
+int main(){
 
 printf("t\t y(t)\t Logistic function\n");
 

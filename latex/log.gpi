@@ -1,0 +1,9 @@
+set term pdf
+set out "plot.pdf"
+set term pdf size 2.5,3
+set nokey
+set xlabel "x"
+set ylabel "erf(x)"
+set grid
+plot \
+"data.txt" using 1:2 with lines
